@@ -1,0 +1,28 @@
+## 🚀 프로젝트 소개
+[사진 추가 예정]
+
+> OpenAi의 API를 활용해 학습 피드백을 받고, 스터디 그룹을 모집하는 웹 서비스
+
+## 💻 기술 소개
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/Spring&nbsp;Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+## ⚒️ 협업 도구
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+## 🧑‍💻 멤버 소개
+|[![](https://github.com/kaebalsaebal.png?width=200px)](github.com/kaebalsaebal)|[![](https://github.com/dohy0103.png?width=200px)](github.com/dohy0103) |[![](https://github.com/seohee-P.png?width=200px)](https://github.com/seohee-P) |
+|:---:|:---:|:---:|
+| 권순영 | 김동현 | 박서희 |
+|[![](https://github.com/pjy2163.png?width=200px)](https://github.com/pjy2163)|[![](https://github.com/jaewonLeeKOR.png?width=200px)](https://github.com/jaewonLeeKOR) |[![](https://github.com/jangseungwon08.png?width=200px)](https://github.com/jangseungwon08) |
+| 박지영 | 이재원 | 장승원 |
