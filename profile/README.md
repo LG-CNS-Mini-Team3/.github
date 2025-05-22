@@ -1,5 +1,6 @@
 ## 🚀 프로젝트 소개
-[사진 추가 예정]
+<img src="https://github.com/user-attachments/assets/5cc29133-3f80-4bd9-875f-9fde5cab6352" width=350px>
+
 
 > OpenAi의 API를 활용해 학습 피드백을 받고, 스터디 그룹을 모집하는 웹 서비스
 
